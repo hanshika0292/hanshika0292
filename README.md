@@ -1,6 +1,6 @@
 ### Hi, I'm Hanshika
 
-I build AI products end to end: I find the problem, write the spec, build it with AI coding agents and put it in front of users. I bring 7+ years of product tech experience at startups, with a background in data science.
+I build AI products end to end: I find the problem, write the spec, build it with AI coding agents and put it in front of users. I bring 11+ years of product tech experience at startups, with a background in data science.
 
 I also run [PM Interview Prep Club](https://pminterviewprep.club), a learning platform for aspiring product managers with practice problems, AI mock interviews, a daily PM newsletter and job alerts.
 
