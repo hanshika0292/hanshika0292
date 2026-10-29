@@ -18,6 +18,7 @@ I also run [PM Interview Prep Club](https://pminterviewprep.club), a learning pl
 
 | Project | What it does | Built with |
 |---|---|---|
+| [cos](https://github.com/hanshika0292/cos) | A menu-bar chief of staff for running many coding agents at once: tracks Claude Code, Gemini and Codex sessions across terminals, accounts and VMs, alongside open docs and to-dos, with a daily AI brief. | Python, SwiftBar, agent hooks, JXA |
 | [selfsend](https://github.com/hanshika0292/selfsend) | A self-hosted email API and dashboard on Amazon SES that speaks the Resend API, so apps can switch by changing one URL. | TypeScript, Hono, SQLite, AWS SES |
 | [reel-digest](https://github.com/hanshika0292/reel-digest) | Every morning, turns the automation reels I save to an Instagram DM group into a digest of workflows I can build. | Claude Code, MCP, Whisper |
 | [profiles-for-claude](https://github.com/hanshika0292/profiles-for-claude) | A macOS app that runs several Claude Code and Claude Desktop accounts side by side in separate profiles. | Swift, SwiftUI |
