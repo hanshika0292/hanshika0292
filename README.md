@@ -22,7 +22,7 @@ I also run [PM Interview Prep Club](https://pminterviewprep.club), a learning pl
 | [selfsend](https://github.com/hanshika0292/selfsend) | A self-hosted email API and dashboard on Amazon SES that speaks the Resend API, so apps can switch by changing one URL. | TypeScript, Hono, SQLite, AWS SES |
 | [reel-digest](https://github.com/hanshika0292/reel-digest) | Every morning, turns the automation reels I save to an Instagram DM group into a digest of workflows I can build. | Claude Code, MCP, Whisper |
 | [profiles-for-claude](https://github.com/hanshika0292/profiles-for-claude) | A macOS app that runs several Claude Code and Claude Desktop accounts side by side in separate profiles. | Swift, SwiftUI |
-| [heatwatch](https://github.com/hanshika0292/heatwatch) | A menu-bar temperature and fan monitor for Intel MacBook Pros, with a daily heat report. | Swift, IOKit |
+| [heatwatch](https://github.com/hanshika0292/heatwatch) | A menu-bar temperature and fan monitor for MacBooks, with a daily heat report. | Swift, IOKit |
 
 #### How I work
 
